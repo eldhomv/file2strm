@@ -1,6 +1,6 @@
 {
-  "name": "Pyro-FileStreamBot",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web.",
+  "name": "Pyro Bot",
+  "description": "A Pyrogram bot to Stream Tg files to web.",
   "keywords": [
       "telegram",
       "stream",
@@ -12,7 +12,7 @@
       "modular",
       "media"
     ],
-  "repository": "https://github.com/avipatilpro/FileStreamBot/",
+  "repository": "https://github.com/eldhomv/file2strm/",
   "success_url": "/",
   "logo": "https://telegra.ph/file/9d63060a06c6fc6def1da.png",
   "website": "stream.wrench.gq",
